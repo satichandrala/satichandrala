@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @satichandrala
+- 👋 Hi, I’m Purna Sati Chandrala
 - 👀 I’m interested in Machine learning and deep learning for earth science and remote sensing
-- 🌱 I’m currently learning autoencoders to identify anomalies
+- 🌱 I’m currently working on learning autoencoders to identify anomalies in satellite images.
 - 💞️ I’m looking to collaborate on GIS and Machine learning projects to improve my python and ML skills
 - 📫 How to reach me: satichandrala@gmail.com
 
